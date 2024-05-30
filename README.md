@@ -1,4 +1,12 @@
+
 <div align="center"><h1>Spotify</h1>
+The Spotify - Your Favourite Music is here project is a basic music player interface resembling Spotify. It features a responsive design with a navbar displaying the Spotify logo and navigation links. The main section includes a list of songs with play buttons and timestamps, allowing users to play, pause, and skip tracks. The interface also includes a progress bar and song information display. Built using HTML, CSS, and JavaScript, this project provides a simple yet functional music playback experience similar to popular streaming platforms.
+
+
+
+
+
+
 
 
 
